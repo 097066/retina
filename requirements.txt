@@ -1,0 +1,10 @@
+streamlit>=1.30
+torch
+torchvision
+pillow
+numpy
+pandas
+matplotlib
+opencv-python-headless
+scikit-learn
+tqdm
